@@ -31,3 +31,29 @@
     font-family: 'Poppins', sans-serif;
     color: antiquewhite;
   }
+
+  .homepage-button{
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+  }
+
+  
+.paragraph{
+    padding-top: 5rem;
+    font-size: 1.4rem;
+    color: #505050;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    /* text-justify: inter-word; */
+}
+
+.homepage-text{
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    border: none;
+}
+
+.explore-button{
+    padding-bottom: 3rem;
+}

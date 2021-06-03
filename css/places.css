@@ -26,12 +26,10 @@ h2{
     color: #505050;
 }
 
-p{
-    font-size: 1.4rem;
-    color: #505050;
-}
 
 .paragraph{
+    font-size: 1.4rem;
+    color: #505050;
     padding-left: 8rem;
     padding-right: 8rem;
     text-align: justify;
