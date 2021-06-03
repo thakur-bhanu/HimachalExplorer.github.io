@@ -1,0 +1,40 @@
+.page{
+    background-color: #E8E8E8;
+}
+
+.image-place{
+    
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.9);
+    border: none;
+}
+
+
+
+.image-col{
+    margin-top: 3rem;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+h1{
+    font-size: 6rem;
+    color: #505050;
+}
+
+h2{
+    font-size: 3rem;
+    color: #505050;
+}
+
+p{
+    font-size: 1.4rem;
+    color: #505050;
+}
+
+.paragraph{
+    padding-left: 8rem;
+    padding-right: 8rem;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    /* text-justify: inter-word; */
+}
