@@ -11,7 +11,7 @@
 
 
 .image-col{
-    margin-top: 3rem;
+    margin-top: 1.7rem;
     padding-right: 0px;
     padding-left: 0px;
 }
@@ -30,9 +30,26 @@ h2{
 .paragraph{
     font-size: 1.4rem;
     color: #505050;
-    padding-left: 8rem;
-    padding-right: 8rem;
+    padding-left: 30rem;
+    padding-right: 30rem;
     text-align: justify;
     font-family: 'Poppins', sans-serif;
     /* text-justify: inter-word; */
+}
+
+
+
+.place-name{
+    padding-top: 2.5rem;
+    padding-bottom: 3rem;
+}
+
+.place-line{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.header{
+    padding-top: 2rem;
+    /* padding-bottom: 2rem; */
 }
