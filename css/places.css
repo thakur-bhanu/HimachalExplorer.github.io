@@ -114,3 +114,9 @@
     font-family: 'Poppins', sans-serif;
     /* text-justify: inter-word; */
 }
+
+
+.google-map-section{
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
